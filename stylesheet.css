@@ -546,6 +546,10 @@ label{
     .overview_item2{
         box-shadow: 2px 4px 5px 6px gainsboro;
     }
+    .overview_item8{
+        
+        margin: 70px 20px;
+        }
 
     .mission_vission_item1{
         box-shadow: 0px 3px 10px gainsboro;
